@@ -9,14 +9,33 @@ Project Walkthrough
 
 This walkthrough demonstrates the integration of additional universities (West Virginia University and Penn State University) into the database and presents the resulting evaluation and visualization of career outcome trends using Tableau.
 
+
+## Analytical Objective
+
+The objective of this project was to extend an existing Postsecondary Outcomes MIS by incorporating new institutional datasets and evaluating how additional data changes comparative outcome analysis between universities and program types.
+
 ## Database Structure
 
 The project consists of two components:
 
 ### Base MIS Framework
-- Original SQL schema used to organize postsecondary outcome data.
-- Establishes institutional, earnings, and program relationships within the database.
+- Original SQL schema organizing postsecondary outcome data.
+- Defines institutional, earnings, and program relationships.
 
 ### WVU & PSU Extension
-- Expanded schemas and queries integrating West Virginia University and Penn State University master's program data.
-- Enables comparative evaluation of career outcomes following database expansion.
+- Expanded schemas integrating WVU and PSU master's program data.
+- Enables comparative evaluation following database expansion.
+
+## Project Workflow
+
+1. Cleaned and standardized raw datasets using Excel  
+2. Built relational MIS database using SQL  
+3. Integrated additional institutional datasets  
+4. Developed Tableau dashboards for comparative analysis  
+5. Communicated findings through a structured walkthrough presentation
+
+## Tools Used
+
+- **Excel** — Data cleaning and preparation  
+- **SQL** — MIS database construction and analytical queries  
+- **Tableau** — Visualization and comparative analysis  
