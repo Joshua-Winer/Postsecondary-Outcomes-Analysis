@@ -12,7 +12,7 @@ This walkthrough demonstrates the integration of additional universities (West V
 
 ## Analytical Objective
 
-The objective of this project was to extend an existing Postsecondary Outcomes MIS by incorporating new institutional datasets and evaluating how additional data changes comparative outcome analysis between universities and program types.
+The objective of this project was built and extend a Postsecondary Outcomes MIS by incorporating new institutional datasets and evaluating how additional data changes comparative outcome analysis between universities and program types.
 
 ## Database Structure
 
